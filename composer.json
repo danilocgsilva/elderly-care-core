@@ -1,0 +1,15 @@
+{
+    "name": "danilocgsilva/elderly-care-core",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Danilocgsilva\\ElderlyCareCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danill Silva"
+        }
+    ],
+    "require": {}
+}
